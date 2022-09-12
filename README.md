@@ -11,7 +11,7 @@ Currently I am using java as a programming language , selenium as an automation 
 
 📎Socials
 ---
-<p dir="auto"><a href="https://www.linkedin.com/in/kadirtepecik/" rel="nofollow"><img width="40" src="https://camo.githubusercontent.com/2fc2e7a948507e4a8d95c2c61cafa5210e9724108f92bec17c53eeb43d3d78d7/68747470733a2f2f756e706b672e636f6d2f73696d706c652d69636f6e734076372f69636f6e732f6c696e6b6564696e2e737667" align="left" data-canonical-src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" style="max-width: 100%;"></a>
+<p dir="auto"><a href="https://www.linkedin.com/in/huseyinbulut/" rel="nofollow"><img width="40" src="https://camo.githubusercontent.com/2fc2e7a948507e4a8d95c2c61cafa5210e9724108f92bec17c53eeb43d3d78d7/68747470733a2f2f756e706b672e636f6d2f73696d706c652d69636f6e734076372f69636f6e732f6c696e6b6564696e2e737667" align="left" data-canonical-src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" style="max-width: 100%;"></a>
 <a href="https://stackoverflow.com/users/18456843/kadir-tepecik" rel="nofollow"><img width="40" src="https://camo.githubusercontent.com/eb3039ebbf2f4b8c4ba4f4421b30d12281a03bc9855125e9d3c7bc1e6a01b7c8/68747470733a2f2f756e706b672e636f6d2f73696d706c652d69636f6e734076372f69636f6e732f737461636b6f766572666c6f772e737667" align="left" data-canonical-src="https://unpkg.com/simple-icons@v7/icons/stackoverflow.svg" style="max-width: 100%;"></a>
 <p dir="auto"><br>
 <br></p>
